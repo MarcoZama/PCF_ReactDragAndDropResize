@@ -1,1 +1,1 @@
-# PCF_ReactDragAndDropResize
+# PCF sample for elements' resize through css.
